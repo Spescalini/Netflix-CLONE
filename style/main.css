@@ -76,6 +76,11 @@ header nav a:hover{
     transition: .3s ease all;
 }
 
+.link-btn{
+    text-decoration: none;
+    color: none;
+}
+
 .button:hover{
     background-color: white;
     color:#141414
@@ -94,4 +99,8 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 7px;
 }
